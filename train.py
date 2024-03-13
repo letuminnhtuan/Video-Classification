@@ -8,7 +8,7 @@ device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
 root_path = 'data/'
 image_size = (224, 224)
 num_frames = 48
-batch_size = 32
+batch_size = 16
 dataloader, classes = create_dataloader(root_path, image_size, num_frames, batch_size)
 
 """ Create Model """

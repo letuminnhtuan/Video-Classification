@@ -111,7 +111,7 @@ class ViT(torch.nn.Module):
             torch.nn.Conv3d(in_channels=16, out_channels=32, kernel_size=(1, 7, 7), stride=(1, 7, 7), padding=(0, 0, 0)),
             torch.nn.BatchNorm3d(32),
             torch.nn.ReLU(),
-            torch.nn.Conv3d(in_channels=32, out_channels=self.output_chanel, kernel_size=(6, 4, 4), stride=(6, 4, 4), padding=(0, 0, 0)),
+            torch.nn.Conv3d(in_channels=32, out_channels=self.output_chanel, kernel_size=(1, 4, 4), stride=(1, 4, 4), padding=(0, 0, 0)),
             torch.nn.BatchNorm3d(self.output_chanel),
             torch.nn.ReLU(),
             torch.nn.Flatten(start_dim=-3)
