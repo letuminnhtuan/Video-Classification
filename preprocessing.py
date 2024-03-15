@@ -5,7 +5,6 @@ import numpy as np
 import pandas as pd
 from torchvision.transforms import v2
 
-
 def get_frames(video_path, num_frames):
     i = 0
     cap = cv2.VideoCapture(video_path)
@@ -34,7 +33,6 @@ transform = v2.Compose([
     v2.ToImage(),
     v2.ToDtype(torch.float32, scale=True),
     v2.Resize(image_size, antialias=True),
-    v2.Normalize([0.5], [0.5]),
 ])
 num_frames = 48
 if not os.path.exists('processed_data'):
