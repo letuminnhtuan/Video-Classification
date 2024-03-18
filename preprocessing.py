@@ -6,24 +6,28 @@ import pandas as pd
 from torchvision.transforms import v2
 
 def get_frames(video_path, num_frames):
-    i = 0
     cap = cv2.VideoCapture(video_path)
+    total_frames = int(cap.get(cv2.CAP_PROP_FRAME_COUNT))
+    rate = 1
     frames = []
+    if total_frames > 2 * num_frames:
+        rate = int(total_frames / num_frames)
+    idx = 0
     while True:
         ret, frame = cap.read()
         if not ret:
             break
-        frames.append(np.asarray(frame))
-        i += 1
-        if i == num_frames:
+        if idx % rate == 0:
+            frames.append(np.asarray(frame))
+        idx += 1
+        if len(frames) == num_frames:
             break
     frame = frames[-1]
-    while i != num_frames:
+    while len(frames) != num_frames:
         frames.append(np.zeros_like(frame))
-        i += 1
     return frames
 
-root_path = "dataset"
+root_path = "root_data"
 data = {
     'paths': [],
     'labels': []
@@ -33,6 +37,7 @@ transform = v2.Compose([
     v2.ToImage(),
     v2.ToDtype(torch.float32, scale=True),
     v2.Resize(image_size, antialias=True),
+    v2.Normalize([0.5, 0.5, 0.5], [0.5, 0.5, 0.5])
 ])
 num_frames = 48
 if not os.path.exists('processed_data'):
@@ -54,3 +59,4 @@ for dir in os.listdir(root_path):
         input_video = torch.concatenate(tensors, dim=0)
         input_video = input_video.transpose(0, 1)
         torch.save(input_video, f'processed_data/{dir}/video{idx}.pt')
+        torch.cuda.empty_cache()

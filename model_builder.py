@@ -105,14 +105,11 @@ class ViT(torch.nn.Module):
         self.device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
         # Instance
         self.patch_embedding = torch.nn.Sequential(
-            torch.nn.Conv3d(in_channels=self.input_chanel, out_channels=16, kernel_size=(8, 8, 8), stride=(8, 8, 8), padding=(0, 0, 0)),
+            torch.nn.Conv3d(in_channels=self.input_chanel, out_channels=16, kernel_size=(8, 32, 32), stride=(8, 32, 32), padding=(0, 0, 0)),
             torch.nn.BatchNorm3d(16),
             torch.nn.ReLU(),
             torch.nn.Conv3d(in_channels=16, out_channels=32, kernel_size=(1, 7, 7), stride=(1, 7, 7), padding=(0, 0, 0)),
             torch.nn.BatchNorm3d(32),
-            torch.nn.ReLU(),
-            torch.nn.Conv3d(in_channels=32, out_channels=self.output_chanel, kernel_size=(1, 4, 4), stride=(1, 4, 4), padding=(0, 0, 0)),
-            torch.nn.BatchNorm3d(self.output_chanel),
             torch.nn.ReLU(),
             torch.nn.Flatten(start_dim=-3)
         )
