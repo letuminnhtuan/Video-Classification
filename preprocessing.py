@@ -22,12 +22,11 @@ def get_frames(video_path, num_frames):
         idx += 1
         if len(frames) == num_frames:
             break
-    frame = frames[-1]
     while len(frames) != num_frames:
-        frames.append(np.zeros_like(frame))
+        frames.append(np.zeros_like(frames[-1]))
     return frames
 
-root_path = "root_data"
+root_path = "dataset"
 data = {
     'paths': [],
     'labels': []

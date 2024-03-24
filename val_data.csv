@@ -1,677 +1,437 @@
 paths,labels
-processed_data\hammer curl\video9.pt,5
-processed_data\lateral raise\video185.pt,9
-processed_data\push-up\video104.pt,14
-processed_data\leg raises\video96.pt,11
-processed_data\plank\video187.pt,12
-processed_data\plank\video250.pt,12
-processed_data\romanian deadlift\video82.pt,15
-processed_data\leg extension\video91.pt,10
-processed_data\lateral raise\video70.pt,9
-processed_data\shoulder press\video18.pt,17
-processed_data\t bar row\video72.pt,19
-processed_data\barbell biceps curl\video31.pt,0
-processed_data\hip thrust\video42.pt,6
-processed_data\t bar row\video103.pt,19
-processed_data\deadlift\video112.pt,3
-processed_data\squat\video39.pt,18
-processed_data\tricep dips\video49.pt,20
-processed_data\tricep dips\video55.pt,20
-processed_data\push-up\video150.pt,14
-processed_data\incline bench press\video181.pt,7
-processed_data\lat pulldown\video7.pt,8
-processed_data\plank\video30.pt,12
-processed_data\leg extension\video71.pt,10
-processed_data\lateral raise\video145.pt,9
-processed_data\hip thrust\video17.pt,6
-processed_data\leg raises\video137.pt,11
-processed_data\incline bench press\video143.pt,7
-processed_data\t bar row\video85.pt,19
-processed_data\plank\video72.pt,12
-processed_data\hip thrust\video90.pt,6
-processed_data\push-up\video97.pt,14
-processed_data\leg extension\video63.pt,10
-processed_data\pull Up\video78.pt,13
-processed_data\pull Up\video179.pt,13
-processed_data\t bar row\video175.pt,19
-processed_data\hip thrust\video7.pt,6
-processed_data\lateral raise\video110.pt,9
-processed_data\pull Up\video37.pt,13
-processed_data\deadlift\video119.pt,3
-processed_data\leg raises\video53.pt,11
-processed_data\pull Up\video65.pt,13
-processed_data\pull Up\video1.pt,13
-processed_data\squat\video60.pt,18
-processed_data\deadlift\video99.pt,3
-processed_data\hip thrust\video94.pt,6
-processed_data\push-up\video61.pt,14
-processed_data\leg raises\video5.pt,11
-processed_data\pull Up\video61.pt,13
-processed_data\pull Up\video95.pt,13
-processed_data\squat\video7.pt,18
-processed_data\push-up\video28.pt,14
-processed_data\squat\video45.pt,18
-processed_data\squat\video95.pt,18
-processed_data\hip thrust\video96.pt,6
-processed_data\tricep dips\video128.pt,20
-processed_data\hammer curl\video100.pt,5
-processed_data\barbell biceps curl\video35.pt,0
-processed_data\t bar row\video163.pt,19
-processed_data\plank\video186.pt,12
-processed_data\russian twist\video11.pt,16
-processed_data\barbell biceps curl\video147.pt,0
-processed_data\hip thrust\video111.pt,6
-processed_data\romanian deadlift\video114.pt,15
-processed_data\tricep Pushdown\video26.pt,21
-processed_data\bench press\video51.pt,1
-processed_data\squat\video9.pt,18
-processed_data\plank\video228.pt,12
-processed_data\lateral raise\video131.pt,9
-processed_data\plank\video222.pt,12
-processed_data\squat\video113.pt,18
-processed_data\push-up\video88.pt,14
-processed_data\push-up\video84.pt,14
-processed_data\hammer curl\video96.pt,5
-processed_data\russian twist\video94.pt,16
-processed_data\romanian deadlift\video142.pt,15
-processed_data\plank\video192.pt,12
-processed_data\push-up\video138.pt,14
-processed_data\plank\video21.pt,12
-processed_data\hip thrust\video78.pt,6
-processed_data\hammer curl\video99.pt,5
-processed_data\tricep Pushdown\video65.pt,21
-processed_data\hip thrust\video70.pt,6
-processed_data\romanian deadlift\video52.pt,15
-processed_data\tricep Pushdown\video2.pt,21
-processed_data\leg extension\video130.pt,10
-processed_data\leg raises\video147.pt,11
-processed_data\tricep Pushdown\video51.pt,21
-processed_data\barbell biceps curl\video75.pt,0
-processed_data\barbell biceps curl\video145.pt,0
-processed_data\romanian deadlift\video159.pt,15
-processed_data\romanian deadlift\video99.pt,15
-processed_data\hip thrust\video89.pt,6
-processed_data\push-up\video45.pt,14
-processed_data\incline bench press\video62.pt,7
-processed_data\bench press\video31.pt,1
-processed_data\russian twist\video40.pt,16
-processed_data\squat\video94.pt,18
-processed_data\squat\video108.pt,18
-processed_data\tricep dips\video63.pt,20
-processed_data\bench press\video0.pt,1
-processed_data\plank\video14.pt,12
-processed_data\barbell biceps curl\video41.pt,0
-processed_data\leg raises\video36.pt,11
-processed_data\hip thrust\video146.pt,6
-processed_data\bench press\video121.pt,1
-processed_data\plank\video94.pt,12
-processed_data\push-up\video242.pt,14
-processed_data\lateral raise\video11.pt,9
-processed_data\plank\video101.pt,12
-processed_data\tricep dips\video150.pt,20
-processed_data\squat\video71.pt,18
-processed_data\plank\video105.pt,12
-processed_data\pull Up\video134.pt,13
-processed_data\squat\video2.pt,18
-processed_data\chest fly machine\video6.pt,2
-processed_data\hammer curl\video17.pt,5
-processed_data\russian twist\video61.pt,16
-processed_data\bench press\video43.pt,1
-processed_data\plank\video10.pt,12
-processed_data\deadlift\video58.pt,3
-processed_data\push-up\video129.pt,14
-processed_data\lateral raise\video162.pt,9
-processed_data\hip thrust\video15.pt,6
-processed_data\push-up\video16.pt,14
-processed_data\push-up\video210.pt,14
-processed_data\leg extension\video54.pt,10
-processed_data\pull Up\video27.pt,13
-processed_data\incline bench press\video89.pt,7
-processed_data\hip thrust\video50.pt,6
-processed_data\lateral raise\video59.pt,9
-processed_data\russian twist\video132.pt,16
-processed_data\russian twist\video75.pt,16
-processed_data\bench press\video73.pt,1
-processed_data\hammer curl\video111.pt,5
-processed_data\push-up\video204.pt,14
-processed_data\plank\video5.pt,12
-processed_data\tricep Pushdown\video115.pt,21
-processed_data\leg raises\video149.pt,11
-processed_data\barbell biceps curl\video91.pt,0
-processed_data\romanian deadlift\video13.pt,15
-processed_data\push-up\video184.pt,14
-processed_data\barbell biceps curl\video48.pt,0
-processed_data\incline bench press\video138.pt,7
-processed_data\lateral raise\video175.pt,9
-processed_data\plank\video90.pt,12
-processed_data\lateral raise\video93.pt,9
-processed_data\incline bench press\video168.pt,7
-processed_data\plank\video263.pt,12
-processed_data\pull Up\video193.pt,13
-processed_data\tricep dips\video118.pt,20
-processed_data\plank\video87.pt,12
-processed_data\push-up\video73.pt,14
-processed_data\hip thrust\video86.pt,6
-processed_data\leg raises\video44.pt,11
-processed_data\squat\video99.pt,18
-processed_data\t bar row\video138.pt,19
-processed_data\pull Up\video152.pt,13
-processed_data\tricep dips\video66.pt,20
-processed_data\barbell biceps curl\video87.pt,0
-processed_data\romanian deadlift\video160.pt,15
-processed_data\push-up\video74.pt,14
-processed_data\tricep dips\video105.pt,20
-processed_data\lateral raise\video118.pt,9
-processed_data\plank\video153.pt,12
-processed_data\hip thrust\video47.pt,6
-processed_data\barbell biceps curl\video116.pt,0
-processed_data\tricep dips\video15.pt,20
-processed_data\lateral raise\video72.pt,9
-processed_data\bench press\video91.pt,1
-processed_data\bench press\video59.pt,1
-processed_data\tricep dips\video41.pt,20
-processed_data\lateral raise\video126.pt,9
-processed_data\bench press\video45.pt,1
-processed_data\push-up\video101.pt,14
-processed_data\romanian deadlift\video151.pt,15
-processed_data\leg extension\video96.pt,10
-processed_data\pull Up\video43.pt,13
-processed_data\romanian deadlift\video64.pt,15
-processed_data\squat\video210.pt,18
-processed_data\t bar row\video160.pt,19
-processed_data\pull Up\video51.pt,13
-processed_data\leg raises\video28.pt,11
-processed_data\squat\video139.pt,18
-processed_data\romanian deadlift\video48.pt,15
-processed_data\leg raises\video150.pt,11
-processed_data\plank\video189.pt,12
-processed_data\squat\video75.pt,18
-processed_data\pull Up\video33.pt,13
-processed_data\incline bench press\video180.pt,7
-processed_data\shoulder press\video17.pt,17
-processed_data\shoulder press\video1.pt,17
-processed_data\plank\video6.pt,12
-processed_data\tricep Pushdown\video17.pt,21
-processed_data\leg extension\video37.pt,10
-processed_data\romanian deadlift\video15.pt,15
-processed_data\lat pulldown\video2.pt,8
-processed_data\tricep Pushdown\video129.pt,21
-processed_data\tricep Pushdown\video33.pt,21
-processed_data\leg raises\video110.pt,11
-processed_data\chest fly machine\video0.pt,2
-processed_data\leg raises\video112.pt,11
-processed_data\incline bench press\video0.pt,7
-processed_data\leg extension\video111.pt,10
-processed_data\lateral raise\video132.pt,9
-processed_data\push-up\video17.pt,14
-processed_data\squat\video3.pt,18
-processed_data\hip thrust\video148.pt,6
-processed_data\barbell biceps curl\video110.pt,0
-processed_data\pull Up\video167.pt,13
-processed_data\tricep Pushdown\video78.pt,21
-processed_data\leg raises\video22.pt,11
-processed_data\tricep dips\video98.pt,20
-processed_data\hammer curl\video81.pt,5
-processed_data\tricep Pushdown\video68.pt,21
-processed_data\leg extension\video75.pt,10
-processed_data\tricep dips\video210.pt,20
-processed_data\leg raises\video62.pt,11
-processed_data\t bar row\video13.pt,19
-processed_data\incline bench press\video71.pt,7
-processed_data\deadlift\video18.pt,3
-processed_data\barbell biceps curl\video1.pt,0
-processed_data\deadlift\video121.pt,3
-processed_data\hammer curl\video48.pt,5
-processed_data\plank\video152.pt,12
-processed_data\plank\video107.pt,12
-processed_data\pull Up\video72.pt,13
-processed_data\hip thrust\video79.pt,6
-processed_data\leg extension\video129.pt,10
-processed_data\plank\video159.pt,12
-processed_data\t bar row\video24.pt,19
-processed_data\deadlift\video129.pt,3
-processed_data\tricep dips\video79.pt,20
-processed_data\hammer curl\video156.pt,5
-processed_data\romanian deadlift\video137.pt,15
-processed_data\tricep dips\video33.pt,20
-processed_data\incline bench press\video179.pt,7
-processed_data\incline bench press\video140.pt,7
-processed_data\push-up\video132.pt,14
-processed_data\incline bench press\video79.pt,7
-processed_data\russian twist\video45.pt,16
-processed_data\t bar row\video42.pt,19
-processed_data\romanian deadlift\video121.pt,15
-processed_data\bench press\video86.pt,1
-processed_data\barbell biceps curl\video131.pt,0
-processed_data\leg raises\video48.pt,11
-processed_data\tricep dips\video151.pt,20
-processed_data\leg extension\video11.pt,10
-processed_data\romanian deadlift\video98.pt,15
-processed_data\pull Up\video58.pt,13
-processed_data\lateral raise\video49.pt,9
-processed_data\deadlift\video102.pt,3
-processed_data\pull Up\video22.pt,13
-processed_data\tricep Pushdown\video6.pt,21
-processed_data\lateral raise\video90.pt,9
-processed_data\incline bench press\video75.pt,7
-processed_data\leg raises\video9.pt,11
-processed_data\hip thrust\video32.pt,6
-processed_data\push-up\video173.pt,14
-processed_data\tricep Pushdown\video121.pt,21
-processed_data\hammer curl\video19.pt,5
-processed_data\tricep dips\video77.pt,20
-processed_data\barbell biceps curl\video45.pt,0
-processed_data\squat\video205.pt,18
-processed_data\t bar row\video137.pt,19
-processed_data\romanian deadlift\video87.pt,15
-processed_data\deadlift\video124.pt,3
-processed_data\tricep dips\video121.pt,20
-processed_data\tricep dips\video171.pt,20
-processed_data\plank\video131.pt,12
-processed_data\tricep dips\video134.pt,20
-processed_data\bench press\video10.pt,1
-processed_data\leg raises\video74.pt,11
-processed_data\push-up\video19.pt,14
-processed_data\t bar row\video65.pt,19
-processed_data\hammer curl\video7.pt,5
-processed_data\push-up\video233.pt,14
-processed_data\tricep Pushdown\video104.pt,21
-processed_data\tricep Pushdown\video90.pt,21
-processed_data\tricep dips\video47.pt,20
-processed_data\tricep dips\video69.pt,20
-processed_data\squat\video1.pt,18
-processed_data\russian twist\video100.pt,16
-processed_data\romanian deadlift\video158.pt,15
-processed_data\russian twist\video112.pt,16
-processed_data\bench press\video69.pt,1
-processed_data\tricep Pushdown\video63.pt,21
-processed_data\t bar row\video23.pt,19
-processed_data\leg extension\video5.pt,10
-processed_data\russian twist\video82.pt,16
-processed_data\push-up\video136.pt,14
-processed_data\leg extension\video18.pt,10
-processed_data\barbell biceps curl\video61.pt,0
-processed_data\push-up\video209.pt,14
-processed_data\romanian deadlift\video78.pt,15
-processed_data\squat\video126.pt,18
-processed_data\squat\video58.pt,18
-processed_data\push-up\video62.pt,14
-processed_data\leg raises\video132.pt,11
-processed_data\barbell biceps curl\video57.pt,0
-processed_data\push-up\video239.pt,14
-processed_data\tricep Pushdown\video30.pt,21
-processed_data\t bar row\video25.pt,19
-processed_data\pull Up\video90.pt,13
-processed_data\hammer curl\video1.pt,5
-processed_data\push-up\video174.pt,14
-processed_data\tricep dips\video195.pt,20
-processed_data\barbell biceps curl\video88.pt,0
-processed_data\plank\video163.pt,12
-processed_data\russian twist\video92.pt,16
-processed_data\lateral raise\video81.pt,9
-processed_data\push-up\video131.pt,14
-processed_data\incline bench press\video38.pt,7
-processed_data\incline bench press\video85.pt,7
-processed_data\chest fly machine\video11.pt,2
-processed_data\incline bench press\video163.pt,7
-processed_data\romanian deadlift\video175.pt,15
-processed_data\hammer curl\video43.pt,5
-processed_data\bench press\video80.pt,1
-processed_data\deadlift\video100.pt,3
-processed_data\incline bench press\video194.pt,7
-processed_data\lateral raise\video41.pt,9
-processed_data\lateral raise\video99.pt,9
-processed_data\squat\video121.pt,18
-processed_data\leg raises\video29.pt,11
-processed_data\pull Up\video25.pt,13
-processed_data\hammer curl\video137.pt,5
-processed_data\lateral raise\video23.pt,9
-processed_data\push-up\video78.pt,14
-processed_data\pull Up\video190.pt,13
-processed_data\incline bench press\video116.pt,7
-processed_data\tricep Pushdown\video84.pt,21
-processed_data\incline bench press\video152.pt,7
-processed_data\pull Up\video67.pt,13
-processed_data\push-up\video142.pt,14
-processed_data\tricep dips\video85.pt,20
-processed_data\plank\video220.pt,12
-processed_data\bench press\video122.pt,1
-processed_data\push-up\video175.pt,14
-processed_data\lateral raise\video8.pt,9
-processed_data\tricep Pushdown\video132.pt,21
-processed_data\romanian deadlift\video109.pt,15
-processed_data\squat\video25.pt,18
-processed_data\plank\video123.pt,12
-processed_data\push-up\video255.pt,14
-processed_data\lateral raise\video158.pt,9
-processed_data\incline bench press\video139.pt,7
-processed_data\bench press\video124.pt,1
-processed_data\russian twist\video50.pt,16
-processed_data\incline bench press\video14.pt,7
-processed_data\tricep dips\video78.pt,20
-processed_data\deadlift\video130.pt,3
-processed_data\t bar row\video57.pt,19
-processed_data\incline bench press\video13.pt,7
-processed_data\push-up\video86.pt,14
-processed_data\leg raises\video104.pt,11
-processed_data\hammer curl\video72.pt,5
-processed_data\barbell biceps curl\video19.pt,0
-processed_data\squat\video24.pt,18
-processed_data\hip thrust\video14.pt,6
-processed_data\incline bench press\video148.pt,7
-processed_data\plank\video225.pt,12
-processed_data\t bar row\video5.pt,19
-processed_data\leg raises\video30.pt,11
-processed_data\squat\video191.pt,18
-processed_data\lateral raise\video127.pt,9
-processed_data\barbell biceps curl\video49.pt,0
-processed_data\bench press\video39.pt,1
-processed_data\bench press\video9.pt,1
-processed_data\russian twist\video154.pt,16
-processed_data\tricep dips\video16.pt,20
-processed_data\pull Up\video32.pt,13
-processed_data\incline bench press\video182.pt,7
-processed_data\romanian deadlift\video104.pt,15
-processed_data\leg extension\video104.pt,10
-processed_data\russian twist\video103.pt,16
-processed_data\deadlift\video139.pt,3
-processed_data\deadlift\video47.pt,3
-processed_data\push-up\video144.pt,14
-processed_data\lateral raise\video88.pt,9
-processed_data\deadlift\video62.pt,3
-processed_data\push-up\video33.pt,14
-processed_data\tricep dips\video185.pt,20
-processed_data\romanian deadlift\video163.pt,15
-processed_data\pull Up\video127.pt,13
-processed_data\leg raises\video12.pt,11
-processed_data\russian twist\video62.pt,16
-processed_data\barbell biceps curl\video143.pt,0
-processed_data\hammer curl\video139.pt,5
-processed_data\plank\video257.pt,12
-processed_data\leg extension\video27.pt,10
-processed_data\push-up\video252.pt,14
-processed_data\t bar row\video52.pt,19
-processed_data\lateral raise\video198.pt,9
-processed_data\tricep dips\video94.pt,20
-processed_data\plank\video59.pt,12
-processed_data\russian twist\video49.pt,16
-processed_data\lateral raise\video52.pt,9
-processed_data\pull Up\video3.pt,13
-processed_data\hip thrust\video141.pt,6
-processed_data\plank\video12.pt,12
-processed_data\tricep dips\video206.pt,20
-processed_data\pull Up\video141.pt,13
-processed_data\tricep Pushdown\video52.pt,21
-processed_data\t bar row\video86.pt,19
-processed_data\plank\video235.pt,12
-processed_data\incline bench press\video96.pt,7
-processed_data\tricep dips\video165.pt,20
-processed_data\tricep dips\video143.pt,20
-processed_data\squat\video175.pt,18
-processed_data\deadlift\video63.pt,3
-processed_data\romanian deadlift\video10.pt,15
-processed_data\incline bench press\video108.pt,7
-processed_data\incline bench press\video101.pt,7
-processed_data\russian twist\video133.pt,16
-processed_data\pull Up\video163.pt,13
-processed_data\hammer curl\video23.pt,5
-processed_data\lateral raise\video78.pt,9
-processed_data\plank\video49.pt,12
-processed_data\hammer curl\video0.pt,5
-processed_data\romanian deadlift\video40.pt,15
-processed_data\squat\video82.pt,18
-processed_data\push-up\video108.pt,14
-processed_data\romanian deadlift\video139.pt,15
-processed_data\incline bench press\video128.pt,7
-processed_data\t bar row\video17.pt,19
-processed_data\romanian deadlift\video185.pt,15
-processed_data\russian twist\video87.pt,16
-processed_data\deadlift\video140.pt,3
-processed_data\lateral raise\video31.pt,9
-processed_data\incline bench press\video50.pt,7
-processed_data\tricep dips\video23.pt,20
-processed_data\lateral raise\video157.pt,9
-processed_data\hip thrust\video61.pt,6
-processed_data\hip thrust\video75.pt,6
-processed_data\plank\video70.pt,12
-processed_data\plank\video41.pt,12
-processed_data\squat\video204.pt,18
-processed_data\hammer curl\video123.pt,5
-processed_data\leg raises\video80.pt,11
-processed_data\bench press\video97.pt,1
-processed_data\plank\video60.pt,12
-processed_data\lateral raise\video178.pt,9
-processed_data\hip thrust\video104.pt,6
-processed_data\incline bench press\video28.pt,7
-processed_data\russian twist\video3.pt,16
-processed_data\deadlift\video83.pt,3
-processed_data\deadlift\video43.pt,3
-processed_data\t bar row\video173.pt,19
-processed_data\leg extension\video15.pt,10
-processed_data\tricep Pushdown\video57.pt,21
-processed_data\pull Up\video102.pt,13
-processed_data\incline bench press\video104.pt,7
-processed_data\pull Up\video68.pt,13
-processed_data\leg raises\video108.pt,11
-processed_data\t bar row\video70.pt,19
-processed_data\leg extension\video93.pt,10
-processed_data\hammer curl\video29.pt,5
-processed_data\russian twist\video7.pt,16
-processed_data\leg extension\video139.pt,10
-processed_data\pull Up\video173.pt,13
-processed_data\russian twist\video66.pt,16
-processed_data\deadlift\video53.pt,3
-processed_data\barbell biceps curl\video98.pt,0
-processed_data\hammer curl\video136.pt,5
-processed_data\deadlift\video116.pt,3
-processed_data\incline bench press\video160.pt,7
-processed_data\plank\video208.pt,12
-processed_data\russian twist\video96.pt,16
-processed_data\push-up\video27.pt,14
-processed_data\leg extension\video46.pt,10
-processed_data\barbell biceps curl\video15.pt,0
-processed_data\deadlift\video45.pt,3
-processed_data\leg extension\video99.pt,10
-processed_data\tricep dips\video124.pt,20
-processed_data\squat\video109.pt,18
-processed_data\deadlift\video7.pt,3
-processed_data\leg extension\video126.pt,10
-processed_data\leg extension\video53.pt,10
-processed_data\lateral raise\video135.pt,9
-processed_data\deadlift\video113.pt,3
-processed_data\leg raises\video152.pt,11
-processed_data\pull Up\video105.pt,13
-processed_data\hammer curl\video88.pt,5
-processed_data\hip thrust\video11.pt,6
-processed_data\leg extension\video25.pt,10
-processed_data\lateral raise\video69.pt,9
-processed_data\pull Up\video8.pt,13
-processed_data\hip thrust\video85.pt,6
-processed_data\tricep dips\video26.pt,20
-processed_data\squat\video37.pt,18
-processed_data\barbell biceps curl\video150.pt,0
-processed_data\squat\video38.pt,18
-processed_data\incline bench press\video117.pt,7
-processed_data\barbell biceps curl\video155.pt,0
-processed_data\barbell biceps curl\video69.pt,0
-processed_data\romanian deadlift\video28.pt,15
-processed_data\plank\video53.pt,12
-processed_data\pull Up\video191.pt,13
-processed_data\t bar row\video75.pt,19
-processed_data\squat\video117.pt,18
-processed_data\t bar row\video36.pt,19
-processed_data\leg extension\video50.pt,10
-processed_data\lateral raise\video133.pt,9
-processed_data\barbell biceps curl\video162.pt,0
-processed_data\barbell biceps curl\video141.pt,0
-processed_data\romanian deadlift\video42.pt,15
-processed_data\leg raises\video153.pt,11
-processed_data\bench press\video70.pt,1
-processed_data\squat\video137.pt,18
-processed_data\bench press\video56.pt,1
-processed_data\plank\video146.pt,12
-processed_data\t bar row\video171.pt,19
-processed_data\deadlift\video73.pt,3
-processed_data\barbell biceps curl\video7.pt,0
-processed_data\bench press\video63.pt,1
-processed_data\shoulder press\video6.pt,17
-processed_data\push-up\video128.pt,14
-processed_data\t bar row\video58.pt,19
-processed_data\tricep dips\video95.pt,20
-processed_data\bench press\video90.pt,1
-processed_data\russian twist\video35.pt,16
-processed_data\incline bench press\video78.pt,7
-processed_data\tricep Pushdown\video14.pt,21
-processed_data\lateral raise\video32.pt,9
-processed_data\tricep Pushdown\video109.pt,21
-processed_data\romanian deadlift\video135.pt,15
-processed_data\t bar row\video116.pt,19
-processed_data\t bar row\video149.pt,19
-processed_data\russian twist\video144.pt,16
-processed_data\tricep dips\video201.pt,20
-processed_data\hip thrust\video152.pt,6
-processed_data\tricep Pushdown\video71.pt,21
-processed_data\tricep dips\video53.pt,20
-processed_data\plank\video109.pt,12
-processed_data\lateral raise\video191.pt,9
-processed_data\hip thrust\video72.pt,6
-processed_data\squat\video142.pt,18
-processed_data\t bar row\video76.pt,19
-processed_data\plank\video115.pt,12
-processed_data\russian twist\video153.pt,16
-processed_data\t bar row\video90.pt,19
-processed_data\deadlift\video86.pt,3
-processed_data\tricep dips\video54.pt,20
-processed_data\plank\video158.pt,12
-processed_data\tricep Pushdown\video31.pt,21
-processed_data\leg raises\video114.pt,11
-processed_data\russian twist\video78.pt,16
-processed_data\bench press\video98.pt,1
-processed_data\tricep dips\video29.pt,20
-processed_data\barbell biceps curl\video44.pt,0
-processed_data\pull Up\video185.pt,13
-processed_data\hammer curl\video42.pt,5
-processed_data\t bar row\video91.pt,19
-processed_data\t bar row\video125.pt,19
-processed_data\hammer curl\video69.pt,5
-processed_data\leg raises\video47.pt,11
-processed_data\deadlift\video152.pt,3
-processed_data\squat\video65.pt,18
-processed_data\hammer curl\video108.pt,5
-processed_data\lateral raise\video42.pt,9
-processed_data\squat\video6.pt,18
-processed_data\plank\video241.pt,12
-processed_data\plank\video178.pt,12
-processed_data\tricep dips\video28.pt,20
-processed_data\bench press\video83.pt,1
-processed_data\hip thrust\video108.pt,6
-processed_data\push-up\video70.pt,14
-processed_data\leg raises\video129.pt,11
-processed_data\deadlift\video90.pt,3
-processed_data\romanian deadlift\video47.pt,15
-processed_data\plank\video209.pt,12
-processed_data\lateral raise\video94.pt,9
-processed_data\romanian deadlift\video74.pt,15
-processed_data\tricep Pushdown\video74.pt,21
-processed_data\hip thrust\video46.pt,6
-processed_data\plank\video258.pt,12
-processed_data\t bar row\video94.pt,19
-processed_data\chest fly machine\video16.pt,2
-processed_data\chest fly machine\video8.pt,2
-processed_data\romanian deadlift\video80.pt,15
-processed_data\t bar row\video99.pt,19
-processed_data\deadlift\video141.pt,3
-processed_data\lateral raise\video50.pt,9
-processed_data\t bar row\video92.pt,19
-processed_data\lateral raise\video60.pt,9
-processed_data\squat\video207.pt,18
-processed_data\tricep Pushdown\video87.pt,21
-processed_data\push-up\video83.pt,14
-processed_data\t bar row\video151.pt,19
-processed_data\squat\video177.pt,18
-processed_data\plank\video162.pt,12
-processed_data\plank\video205.pt,12
+processed_data\tricep Pushdown\video19.pt,21
+processed_data\pull Up\video66.pt,13
+processed_data\shoulder press\video2 - Copy (4).pt,17
+processed_data\deadlift\video144.pt,3
+processed_data\decline bench press\video5 - Copy - Copy (2).pt,4
+processed_data\leg raises\video120.pt,11
+processed_data\lat pulldown\video0 - Copy.pt,8
+processed_data\tricep dips\video113.pt,20
 processed_data\leg raises\video141.pt,11
-processed_data\t bar row\video89.pt,19
-processed_data\incline bench press\video170.pt,7
-processed_data\romanian deadlift\video21.pt,15
-processed_data\hammer curl\video47.pt,5
-processed_data\push-up\video213.pt,14
-processed_data\bench press\video87.pt,1
-processed_data\incline bench press\video120.pt,7
-processed_data\hammer curl\video128.pt,5
-processed_data\leg extension\video28.pt,10
-processed_data\squat\video178.pt,18
-processed_data\leg raises\video14.pt,11
-processed_data\tricep dips\video116.pt,20
-processed_data\deadlift\video41.pt,3
-processed_data\leg extension\video89.pt,10
-processed_data\russian twist\video98.pt,16
-processed_data\push-up\video3.pt,14
-processed_data\squat\video64.pt,18
-processed_data\lateral raise\video154.pt,9
-processed_data\tricep Pushdown\video88.pt,21
-processed_data\squat\video97.pt,18
-processed_data\pull Up\video89.pt,13
-processed_data\barbell biceps curl\video95.pt,0
-processed_data\squat\video180.pt,18
-processed_data\plank\video217.pt,12
-processed_data\bench press\video40.pt,1
-processed_data\hip thrust\video115.pt,6
-processed_data\push-up\video85.pt,14
-processed_data\tricep dips\video12.pt,20
-processed_data\hammer curl\video32.pt,5
-processed_data\russian twist\video29.pt,16
-processed_data\t bar row\video11.pt,19
-processed_data\incline bench press\video27.pt,7
-processed_data\pull Up\video104.pt,13
-processed_data\chest fly machine\video22.pt,2
-processed_data\pull Up\video153.pt,13
-processed_data\hammer curl\video119.pt,5
-processed_data\hip thrust\video73.pt,6
-processed_data\squat\video123.pt,18
-processed_data\leg extension\video31.pt,10
-processed_data\push-up\video68.pt,14
-processed_data\t bar row\video134.pt,19
-processed_data\romanian deadlift\video119.pt,15
-processed_data\push-up\video123.pt,14
-processed_data\russian twist\video88.pt,16
-processed_data\plank\video166.pt,12
-processed_data\leg extension\video43.pt,10
-processed_data\deadlift\video12.pt,3
-processed_data\romanian deadlift\video126.pt,15
-processed_data\romanian deadlift\video141.pt,15
-processed_data\lateral raise\video4.pt,9
-processed_data\hip thrust\video10.pt,6
-processed_data\hammer curl\video127.pt,5
-processed_data\hip thrust\video137.pt,6
-processed_data\bench press\video15.pt,1
-processed_data\incline bench press\video58.pt,7
-processed_data\deadlift\video122.pt,3
-processed_data\push-up\video115.pt,14
-processed_data\plank\video133.pt,12
-processed_data\push-up\video52.pt,14
-processed_data\plank\video266.pt,12
-processed_data\squat\video132.pt,18
-processed_data\hip thrust\video0.pt,6
-processed_data\incline bench press\video52.pt,7
-processed_data\squat\video183.pt,18
-processed_data\barbell biceps curl\video30.pt,0
-processed_data\push-up\video251.pt,14
-processed_data\hip thrust\video164.pt,6
-processed_data\incline bench press\video154.pt,7
-processed_data\push-up\video212.pt,14
-processed_data\pull Up\video180.pt,13
-processed_data\russian twist\video15.pt,16
-processed_data\romanian deadlift\video101.pt,15
-processed_data\plank\video62.pt,12
-processed_data\barbell biceps curl\video117.pt,0
-processed_data\leg raises\video135.pt,11
-processed_data\pull Up\video162.pt,13
+processed_data\pull Up\video143.pt,13
+processed_data\leg extension\video94.pt,10
+processed_data\russian twist\video136.pt,16
+processed_data\incline bench press\video133.pt,7
+processed_data\russian twist\video86.pt,16
+processed_data\hip thrust\video49.pt,6
+processed_data\romanian deadlift\video88.pt,15
+processed_data\leg extension\video51.pt,10
+processed_data\push-up\video203.pt,14
+processed_data\hammer curl\video131.pt,5
+processed_data\incline bench press\video92.pt,7
+processed_data\barbell biceps curl\video207.pt,0
+processed_data\t bar row\video69.pt,19
+processed_data\lateral raise\video120.pt,9
+processed_data\tricep Pushdown\video24.pt,21
+processed_data\russian twist\video45.pt,16
+processed_data\lat pulldown\video39 - Copy (2).pt,8
+processed_data\hip thrust\video55.pt,6
+processed_data\hammer curl\video160.pt,5
+processed_data\barbell biceps curl\video34.pt,0
+processed_data\barbell biceps curl\video191.pt,0
+processed_data\leg raises\video48.pt,11
+processed_data\push-up\video114.pt,14
+processed_data\pull Up\video85.pt,13
+processed_data\push-up\video92.pt,14
+processed_data\barbell biceps curl\video177.pt,0
+processed_data\deadlift\video105.pt,3
+processed_data\plank\video196.pt,12
+processed_data\lateral raise\video241.pt,9
+processed_data\bench press\video181.pt,1
+processed_data\barbell biceps curl\video190.pt,0
+processed_data\chest fly machine\video10 - Copy (2).pt,2
+processed_data\romanian deadlift\video116.pt,15
+processed_data\bench press\video37.pt,1
+processed_data\push-up\video201.pt,14
+processed_data\hip thrust\video30.pt,6
+processed_data\squat\video23.pt,18
+processed_data\decline bench press\video8 - Copy (5).pt,4
+processed_data\lateral raise\video100.pt,9
+processed_data\leg extension\video2.pt,10
+processed_data\plank\video101.pt,12
+processed_data\incline bench press\video117.pt,7
+processed_data\push-up\video262.pt,14
+processed_data\lat pulldown\video48 - Copy (2).pt,8
+processed_data\push-up\video151.pt,14
+processed_data\decline bench press\video11 - Copy (6) - Copy.pt,4
+processed_data\lat pulldown\video51 - Copy (3).pt,8
+processed_data\shoulder press\video1.pt,17
+processed_data\squat\video222.pt,18
+processed_data\push-up\video77.pt,14
+processed_data\t bar row\video119.pt,19
+processed_data\romanian deadlift\video143.pt,15
+processed_data\plank\video22.pt,12
+processed_data\lateral raise\video165.pt,9
+processed_data\t bar row\video173.pt,19
+processed_data\hip thrust\video50.pt,6
+processed_data\hammer curl\video137.pt,5
+processed_data\romanian deadlift\video134.pt,15
+processed_data\romanian deadlift\video70.pt,15
+processed_data\chest fly machine\video4 - Copy (2).pt,2
+processed_data\russian twist\video41.pt,16
+processed_data\tricep dips\video46.pt,20
+processed_data\leg raises\video107.pt,11
+processed_data\decline bench press\video1 - Copy (5).pt,4
+processed_data\russian twist\video6.pt,16
+processed_data\deadlift\video73.pt,3
+processed_data\leg extension\video24.pt,10
+processed_data\pull Up\video56.pt,13
+processed_data\lateral raise\video187.pt,9
+processed_data\barbell biceps curl\video194.pt,0
+processed_data\tricep dips\video203.pt,20
+processed_data\pull Up\video21.pt,13
+processed_data\push-up\video2.pt,14
+processed_data\barbell biceps curl\video88.pt,0
+processed_data\incline bench press\video195.pt,7
+processed_data\lateral raise\video132.pt,9
+processed_data\leg extension\video160.pt,10
+processed_data\pull Up\video83.pt,13
+processed_data\squat\video203.pt,18
+processed_data\lateral raise\video169.pt,9
+processed_data\leg raises\video55.pt,11
+processed_data\russian twist\video85.pt,16
+processed_data\tricep dips\video178.pt,20
+processed_data\deadlift\video84.pt,3
+processed_data\t bar row\video56.pt,19
+processed_data\decline bench press\video0 - Copy (4) - Copy.pt,4
+processed_data\plank\video245.pt,12
+processed_data\squat\video228.pt,18
+processed_data\push-up\video86.pt,14
+processed_data\barbell biceps curl\video215.pt,0
+processed_data\push-up\video242.pt,14
+processed_data\barbell biceps curl\video181.pt,0
+processed_data\hammer curl\video14.pt,5
+processed_data\hammer curl\video92.pt,5
+processed_data\hip thrust\video130.pt,6
+processed_data\leg raises\video20.pt,11
+processed_data\hammer curl\video114.pt,5
+processed_data\plank\video231.pt,12
+processed_data\lat pulldown\video41 - Copy (3).pt,8
+processed_data\push-up\video33.pt,14
+processed_data\t bar row\video35.pt,19
+processed_data\hip thrust\video125.pt,6
+processed_data\tricep Pushdown\video67.pt,21
+processed_data\squat\video14.pt,18
+processed_data\leg raises\video32.pt,11
+processed_data\tricep dips\video187.pt,20
+processed_data\push-up\video253.pt,14
+processed_data\pull Up\video101.pt,13
+processed_data\bench press\video95.pt,1
+processed_data\lat pulldown\video43 - Copy (2).pt,8
+processed_data\decline bench press\video11 - Copy (7) - Copy.pt,4
+processed_data\squat\video122.pt,18
+processed_data\plank\video60.pt,12
+processed_data\plank\video137.pt,12
+processed_data\lateral raise\video201.pt,9
+processed_data\leg extension\video61.pt,10
+processed_data\shoulder press\video18.pt,17
+processed_data\romanian deadlift\video16.pt,15
+processed_data\plank\video141.pt,12
+processed_data\tricep Pushdown\video26.pt,21
+processed_data\plank\video163.pt,12
+processed_data\decline bench press\video1 - Copy (6) - Copy.pt,4
+processed_data\leg extension\video11.pt,10
+processed_data\russian twist\video47.pt,16
+processed_data\hip thrust\video159.pt,6
+processed_data\plank\video61.pt,12
+processed_data\bench press\video91.pt,1
+processed_data\shoulder press\video1 - Copy.pt,17
+processed_data\romanian deadlift\video165.pt,15
+processed_data\hip thrust\video162.pt,6
+processed_data\shoulder press\video15 - Copy (3).pt,17
+processed_data\russian twist\video7.pt,16
+processed_data\incline bench press\video175.pt,7
+processed_data\decline bench press\video4 - Copy (2).pt,4
+processed_data\bench press\video90.pt,1
+processed_data\squat\video189.pt,18
+processed_data\plank\video214.pt,12
+processed_data\decline bench press\video1 - Copy - Copy (2).pt,4
+processed_data\lateral raise\video15.pt,9
+processed_data\deadlift\video35.pt,3
+processed_data\chest fly machine\video10.pt,2
+processed_data\squat\video66.pt,18
+processed_data\decline bench press\video12 - Copy (9) - Copy.pt,4
+processed_data\pull Up\video51.pt,13
+processed_data\plank\video10.pt,12
+processed_data\push-up\video270.pt,14
+processed_data\shoulder press\video3 - Copy.pt,17
+processed_data\deadlift\video59.pt,3
+processed_data\lat pulldown\video25 - Copy (2).pt,8
+processed_data\barbell biceps curl\video1.pt,0
+processed_data\shoulder press\video11 - Copy.pt,17
+processed_data\lat pulldown\video23.pt,8
+processed_data\plank\video104.pt,12
+processed_data\chest fly machine\video6 - Copy.pt,2
+processed_data\bench press\video47.pt,1
+processed_data\decline bench press\video9 - Copy.pt,4
+processed_data\deadlift\video26.pt,3
+processed_data\tricep dips\video155.pt,20
+processed_data\tricep dips\video189.pt,20
+processed_data\leg raises\video108.pt,11
+processed_data\russian twist\video33.pt,16
+processed_data\plank\video34.pt,12
+processed_data\romanian deadlift\video27.pt,15
+processed_data\plank\video21.pt,12
+processed_data\leg raises\video129.pt,11
+processed_data\bench press\video73.pt,1
+processed_data\leg raises\video105.pt,11
+processed_data\lateral raise\video126.pt,9
+processed_data\bench press\video160.pt,1
+processed_data\tricep Pushdown\video156.pt,21
+processed_data\bench press\video51.pt,1
+processed_data\decline bench press\video11 - Copy (4) - Copy.pt,4
+processed_data\pull Up\video84.pt,13
+processed_data\tricep dips\video76.pt,20
+processed_data\deadlift\video114.pt,3
+processed_data\t bar row\video12.pt,19
+processed_data\decline bench press\video9 - Copy (9) - Copy.pt,4
+processed_data\incline bench press\video78.pt,7
+processed_data\decline bench press\video2 - Copy (2) - Copy.pt,4
+processed_data\hip thrust\video36.pt,6
+processed_data\incline bench press\video200.pt,7
+processed_data\t bar row\video107.pt,19
+processed_data\pull Up\video116.pt,13
+processed_data\hip thrust\video143.pt,6
+processed_data\decline bench press\video4 - Copy.pt,4
+processed_data\hammer curl\video55.pt,5
+processed_data\squat\video18.pt,18
+processed_data\incline bench press\video119.pt,7
+processed_data\lateral raise\video60.pt,9
+processed_data\leg raises\video22.pt,11
+processed_data\squat\video25.pt,18
+processed_data\push-up\video288.pt,14
+processed_data\tricep dips\video73.pt,20
+processed_data\squat\video33.pt,18
+processed_data\bench press\video10.pt,1
+processed_data\bench press\video55.pt,1
+processed_data\romanian deadlift\video92.pt,15
+processed_data\leg raises\video45.pt,11
+processed_data\barbell biceps curl\video9.pt,0
+processed_data\lat pulldown\video5 - Copy (2).pt,8
+processed_data\plank\video63.pt,12
+processed_data\t bar row\video182.pt,19
+processed_data\decline bench press\video8 - Copy (2) - Copy.pt,4
+processed_data\tricep dips\video160.pt,20
+processed_data\lateral raise\video66.pt,9
+processed_data\incline bench press\video11.pt,7
+processed_data\leg raises\video76.pt,11
+processed_data\squat\video115.pt,18
+processed_data\decline bench press\video2 - Copy (6).pt,4
+processed_data\lateral raise\video204.pt,9
+processed_data\romanian deadlift\video55.pt,15
+processed_data\leg extension\video75.pt,10
+processed_data\russian twist\video139.pt,16
+processed_data\lat pulldown\video40 - Copy.pt,8
+processed_data\chest fly machine\video22 - Copy (3).pt,2
+processed_data\pull Up\video15.pt,13
+processed_data\incline bench press\video150.pt,7
+processed_data\hammer curl\video34.pt,5
+processed_data\incline bench press\video20.pt,7
+processed_data\push-up\video276.pt,14
+processed_data\t bar row\video116.pt,19
+processed_data\barbell biceps curl\video36.pt,0
+processed_data\lat pulldown\video2 - Copy (2).pt,8
+processed_data\leg extension\video151.pt,10
+processed_data\deadlift\video112.pt,3
+processed_data\romanian deadlift\video15.pt,15
 processed_data\tricep dips\video166.pt,20
-processed_data\lateral raise\video7.pt,9
-processed_data\russian twist\video101.pt,16
-processed_data\leg extension\video143.pt,10
-processed_data\barbell biceps curl\video81.pt,0
-processed_data\push-up\video32.pt,14
-processed_data\hammer curl\video83.pt,5
+processed_data\push-up\video80.pt,14
+processed_data\barbell biceps curl\video7.pt,0
+processed_data\tricep Pushdown\video47.pt,21
+processed_data\t bar row\video52.pt,19
+processed_data\pull Up\video6.pt,13
+processed_data\push-up\video230.pt,14
+processed_data\lat pulldown\video48.pt,8
+processed_data\romanian deadlift\video112.pt,15
+processed_data\leg raises\video140.pt,11
+processed_data\pull Up\video112.pt,13
+processed_data\squat\video223.pt,18
+processed_data\chest fly machine\video13 - Copy.pt,2
+processed_data\push-up\video240.pt,14
+processed_data\incline bench press\video12.pt,7
+processed_data\hip thrust\video134.pt,6
+processed_data\russian twist\video56.pt,16
+processed_data\lat pulldown\video49 - Copy (2).pt,8
+processed_data\plank\video241.pt,12
+processed_data\lateral raise\video39.pt,9
+processed_data\lateral raise\video239.pt,9
+processed_data\lat pulldown\video52 - Copy (2).pt,8
+processed_data\bench press\video33.pt,1
+processed_data\leg extension\video57.pt,10
+processed_data\incline bench press\video52.pt,7
+processed_data\hip thrust\video64.pt,6
+processed_data\tricep dips\video114.pt,20
+processed_data\barbell biceps curl\video162.pt,0
+processed_data\plank\video158.pt,12
+processed_data\hammer curl\video6.pt,5
+processed_data\lat pulldown\video44 - Copy (3).pt,8
+processed_data\barbell biceps curl\video61.pt,0
+processed_data\pull Up\video97.pt,13
+processed_data\lateral raise\video9.pt,9
+processed_data\leg raises\video10.pt,11
+processed_data\tricep dips\video32.pt,20
+processed_data\incline bench press\video190.pt,7
+processed_data\decline bench press\video13 - Copy (5).pt,4
+processed_data\tricep Pushdown\video23.pt,21
+processed_data\push-up\video85.pt,14
+processed_data\incline bench press\video85.pt,7
+processed_data\barbell biceps curl\video116.pt,0
+processed_data\hammer curl\video155.pt,5
+processed_data\plank\video175.pt,12
+processed_data\lat pulldown\video27.pt,8
+processed_data\romanian deadlift\video171.pt,15
+processed_data\lat pulldown\video23 - Copy (2).pt,8
+processed_data\tricep dips\video79.pt,20
+processed_data\decline bench press\video0 - Copy (7) - Copy.pt,4
+processed_data\lateral raise\video71.pt,9
+processed_data\bench press\video184.pt,1
+processed_data\romanian deadlift\video77.pt,15
+processed_data\bench press\video185.pt,1
+processed_data\leg raises\video61.pt,11
+processed_data\leg extension\video130.pt,10
+processed_data\leg extension\video153.pt,10
+processed_data\pull Up\video44.pt,13
+processed_data\pull Up\video20.pt,13
+processed_data\push-up\video51.pt,14
+processed_data\push-up\video73.pt,14
+processed_data\hip thrust\video123.pt,6
+processed_data\t bar row\video112.pt,19
+processed_data\pull Up\video48.pt,13
+processed_data\squat\video202.pt,18
+processed_data\russian twist\video39.pt,16
+processed_data\squat\video186.pt,18
+processed_data\lateral raise\video34.pt,9
+processed_data\lateral raise\video224.pt,9
+processed_data\push-up\video14.pt,14
+processed_data\chest fly machine\video7.pt,2
+processed_data\chest fly machine\video0 - Copy (2).pt,2
+processed_data\hammer curl\video115.pt,5
+processed_data\tricep Pushdown\video69.pt,21
+processed_data\decline bench press\video9 - Copy (4) - Copy.pt,4
+processed_data\tricep Pushdown\video42.pt,21
+processed_data\barbell biceps curl\video82.pt,0
+processed_data\squat\video107.pt,18
+processed_data\push-up\video124.pt,14
+processed_data\push-up\video267.pt,14
+processed_data\lateral raise\video92.pt,9
+processed_data\lateral raise\video81.pt,9
+processed_data\push-up\video166.pt,14
+processed_data\leg extension\video55.pt,10
+processed_data\chest fly machine\video29 - Copy (3).pt,2
+processed_data\squat\video155.pt,18
+processed_data\t bar row\video195.pt,19
+processed_data\bench press\video144.pt,1
+processed_data\squat\video76.pt,18
+processed_data\romanian deadlift\video75.pt,15
+processed_data\deadlift\video32.pt,3
+processed_data\t bar row\video109.pt,19
+processed_data\decline bench press\video13 - Copy - Copy (2).pt,4
+processed_data\squat\video231.pt,18
+processed_data\lat pulldown\video35.pt,8
+processed_data\tricep Pushdown\video177.pt,21
+processed_data\romanian deadlift\video45.pt,15
+processed_data\pull Up\video182.pt,13
+processed_data\russian twist\video80.pt,16
+processed_data\shoulder press\video13 - Copy (3).pt,17
+processed_data\tricep Pushdown\video13.pt,21
+processed_data\t bar row\video98.pt,19
+processed_data\squat\video101.pt,18
+processed_data\hammer curl\video73.pt,5
+processed_data\russian twist\video141.pt,16
+processed_data\shoulder press\video9 - Copy (3).pt,17
+processed_data\chest fly machine\video9 - Copy (3).pt,2
+processed_data\bench press\video54.pt,1
+processed_data\deadlift\video85.pt,3
+processed_data\tricep dips\video147.pt,20
+processed_data\push-up\video202.pt,14
+processed_data\plank\video30.pt,12
+processed_data\incline bench press\video49.pt,7
+processed_data\romanian deadlift\video65.pt,15
+processed_data\lat pulldown\video40 - Copy (3).pt,8
+processed_data\squat\video174.pt,18
+processed_data\tricep dips\video19.pt,20
+processed_data\incline bench press\video25.pt,7
+processed_data\lateral raise\video110.pt,9
+processed_data\bench press\video67.pt,1
+processed_data\deadlift\video153.pt,3
+processed_data\barbell biceps curl\video145.pt,0
+processed_data\t bar row\video205.pt,19
+processed_data\push-up\video43.pt,14
+processed_data\plank\video13.pt,12
+processed_data\tricep dips\video111.pt,20
+processed_data\incline bench press\video100.pt,7
+processed_data\tricep dips\video159.pt,20
+processed_data\leg extension\video44.pt,10
+processed_data\t bar row\video151.pt,19
+processed_data\bench press\video179.pt,1
+processed_data\deadlift\video33.pt,3
+processed_data\hip thrust\video60.pt,6
+processed_data\push-up\video229.pt,14
+processed_data\tricep Pushdown\video170.pt,21
+processed_data\plank\video76.pt,12
+processed_data\tricep Pushdown\video99.pt,21
+processed_data\chest fly machine\video21 - Copy (3).pt,2
+processed_data\tricep Pushdown\video110.pt,21
+processed_data\plank\video142.pt,12
+processed_data\hammer curl\video81.pt,5
+processed_data\push-up\video196.pt,14
+processed_data\barbell biceps curl\video188.pt,0
+processed_data\push-up\video302.pt,14
+processed_data\chest fly machine\video8 - Copy (2).pt,2
+processed_data\decline bench press\video2 - Copy (7) - Copy.pt,4
+processed_data\squat\video43.pt,18
+processed_data\squat\video104.pt,18
+processed_data\leg extension\video122.pt,10
+processed_data\romanian deadlift\video118.pt,15
+processed_data\hip thrust\video107.pt,6
+processed_data\deadlift\video122.pt,3
+processed_data\barbell biceps curl\video110.pt,0
+processed_data\plank\video248.pt,12
+processed_data\leg extension\video16.pt,10
+processed_data\t bar row\video76.pt,19
+processed_data\hammer curl\video8.pt,5
+processed_data\romanian deadlift\video128.pt,15
+processed_data\tricep Pushdown\video83.pt,21
+processed_data\tricep Pushdown\video0.pt,21
+processed_data\tricep dips\video140.pt,20
+processed_data\t bar row\video189.pt,19
+processed_data\tricep Pushdown\video43.pt,21
+processed_data\decline bench press\video9 - Copy (5) - Copy.pt,4
+processed_data\leg extension\video134.pt,10
+processed_data\plank\video15.pt,12
+processed_data\lateral raise\video214.pt,9
+processed_data\plank\video121.pt,12
+processed_data\decline bench press\video12 - Copy (8) - Copy.pt,4
+processed_data\pull Up\video122.pt,13
+processed_data\shoulder press\video17 - Copy (2).pt,17
+processed_data\russian twist\video148.pt,16
+processed_data\lat pulldown\video17 - Copy (2).pt,8
+processed_data\lat pulldown\video31 - Copy.pt,8
+processed_data\hip thrust\video23.pt,6
+processed_data\t bar row\video118.pt,19
+processed_data\incline bench press\video205.pt,7
+processed_data\tricep dips\video179.pt,20
+processed_data\hip thrust\video133.pt,6
+processed_data\t bar row\video93.pt,19
+processed_data\bench press\video89.pt,1
+processed_data\lateral raise\video123.pt,9
+processed_data\deadlift\video48.pt,3
+processed_data\barbell biceps curl\video202.pt,0
+processed_data\incline bench press\video170.pt,7
+processed_data\hammer curl\video0.pt,5
+processed_data\tricep dips\video6.pt,20
+processed_data\incline bench press\video105.pt,7
+processed_data\squat\video146.pt,18
+processed_data\push-up\video234.pt,14
+processed_data\deadlift\video6.pt,3
+processed_data\tricep Pushdown\video143.pt,21
+processed_data\lateral raise\video35.pt,9
+processed_data\decline bench press\video7 - Copy (5) - Copy.pt,4
+processed_data\bench press\video7.pt,1
+processed_data\hammer curl\video159.pt,5
+processed_data\russian twist\video129.pt,16
+processed_data\t bar row\video45.pt,19
+processed_data\squat\video96.pt,18
+processed_data\barbell biceps curl\video165.pt,0
+processed_data\plank\video160.pt,12
+processed_data\pull Up\video42.pt,13

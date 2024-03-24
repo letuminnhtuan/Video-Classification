@@ -2,7 +2,8 @@ import torch
 import matplotlib.pyplot as plt
 from model_builder import ViT
 from data_setup import create_dataloader
-from metrics import accuracy_fn, EarlyStopping
+from metrics import EarlyStopping
+from engine import train_fn, val_fn
 
 device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
 """ Create dataloader """
@@ -36,35 +37,9 @@ result = {
 }
 for epoch in range(epochs):
     # ---------------------------------------- Training ----------------------------------------
-    train_loss = 0
-    train_acc = 0
-    for batch, (X, y) in enumerate(train_loader):
-        model.train()
-        X, y = X.to(device), y.to(device)
-        y_pred = model(X)
-        loss = criterion(y_pred, y)
-        train_loss += loss.item()
-        optimizer.zero_grad()
-        loss.backward()
-        optimizer.step()
-        train_acc += accuracy_fn(torch.softmax(y_pred, dim=1).argmax(dim=1), y)
-    train_loss /= len(train_loader)
-    train_acc /= len(train_loader)
-
+    train_loss, train_acc = train_fn(model, optimizer, criterion, train_loader, device)
     # ---------------------------------------- Validation ----------------------------------------
-    val_loss = 0
-    val_acc = 0
-    model.eval()
-    with torch.no_grad():
-        for batch, (X, y) in enumerate(val_loader):
-            X, y = X.to(device), y.to(device)
-            # Forward pass
-            y_pred = model(X)
-            # Calculate validation loss and accuracy
-            val_loss += criterion(y_pred, y).item()
-            val_acc += accuracy_fn(torch.softmax(y_pred, dim=1).argmax(dim=1), y)
-    val_loss /= len(val_loader)
-    val_acc /= len(val_loader)
+    val_loss, val_acc = val_fn(model, criterion, val_loader, device)
     print(f"Epoch: {epoch + 1}/{epochs} - Training Loss: {train_loss:.2f} - Training Accuracy: {train_acc:.2f} - Validation Loss: {val_loss:.2f} - Validation Accuracy: {val_acc:.2f}")
     result['train_acc'].append(train_acc)
     result['train_loss'].append(train_loss)

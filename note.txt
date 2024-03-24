@@ -1,0 +1,7 @@
+checkpoint 1:
+- dropout patch_embedding: 0.15
+- dropout transformer: 0.2
+
+checkpoint 2:
+- dropout patch_embedding: 0.1
+- dropout transformer: 0.1

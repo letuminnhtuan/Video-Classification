@@ -1,32 +1,35 @@
 import torch
+from metrics import accuracy_fn
 
 def train_fn(model, optimizer, criterion, train_loader, device):
-    model.train()
-    ctc_loss = 0.0
-    for batch_idx, (x, y) in enumerate(train_loader):
-        x, y = x.to(device), y.to(device)
-        optimizer.zero_grad()
-        y_pred = model(x)
+    train_loss = 0
+    train_acc = 0
+    for batch, (X, y) in enumerate(train_loader):
+        model.train()
+        X, y = X.to(device), y.to(device)
+        y_pred = model(X)
         loss = criterion(y_pred, y)
+        train_loss += loss.item()
+        optimizer.zero_grad()
         loss.backward()
         optimizer.step()
-        ctc_loss += loss.item()
-    loss_train = ctc_loss / len(train_loader)
-    return loss_train
+        train_acc += accuracy_fn(torch.softmax(y_pred, dim=1).argmax(dim=1), y)
+    train_loss /= len(train_loader)
+    train_acc /= len(train_loader)
+    return train_loss, train_acc
 
 def val_fn(model, criterion, val_loader, device):
+    val_loss = 0
+    val_acc = 0
     model.eval()
-    ctc_loss = 0.0
     with torch.no_grad():
-        for batch_idx, (input_encoder, input_decoder) in enumerate(val_loader):
-            batch = input_encoder.shape[0]
-            seq_length = input_decoder.shape[1]
-            input_lengths = torch.full(size=(batch,), fill_value=seq_length, dtype=torch.long)
-            target_lengths = torch.randint(low=seq_length - 2, high=seq_length, size=(batch,), dtype=torch.long)
-            input_encoder, input_decoder = input_encoder.to(device), input_decoder.to(device)
-            output_model = model(input_encoder, input_decoder)
-            output_model = output_model.transpose(0, 1)
-            loss = criterion(output_model, input_decoder, input_lengths, target_lengths)
-            ctc_loss += loss.item()
-        loss_val = ctc_loss / len(val_loader)
-    return loss_val
+        for batch, (X, y) in enumerate(val_loader):
+            X, y = X.to(device), y.to(device)
+            # Forward pass
+            y_pred = model(X)
+            # Calculate validation loss and accuracy
+            val_loss += criterion(y_pred, y).item()
+            val_acc += accuracy_fn(torch.softmax(y_pred, dim=1).argmax(dim=1), y)
+    val_loss /= len(val_loader)
+    val_acc /= len(val_loader)
+    return val_loss, val_acc

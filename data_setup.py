@@ -25,11 +25,3 @@ class CustomDataset(Dataset):
         # Get label
         output_label = self.labels[index]
         return tensor, torch.tensor(output_label)
-
-def create_dataloader(root_path, train_path, val_path, batch_size):
-    train_dataset = CustomDataset(root_path, train_path)
-    val_dataset = CustomDataset(root_path, val_path)
-    train_loader = DataLoader(train_dataset, batch_size, shuffle=True)
-    val_loader = DataLoader(val_dataset, batch_size, shuffle=True)
-    class_weights = torch.load('class_weights.pt', map_location=device)
-    return train_loader, val_loader, class_weights
