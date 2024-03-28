@@ -5,3 +5,7 @@ checkpoint 1:
 checkpoint 2:
 - dropout patch_embedding: 0.1
 - dropout transformer: 0.1
+
+checkpoint 3 (not test dataset):
+- dropout patch_embedding: 0.15
+- dropout transformer: 0.15
